@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "photo": "/assets/alice.jpg",
+    "description": "Frontend Developer from San Francisco",
+    "location": "San Francisco, CA",
+    "coordinates": { "lat": 37.7749, "lng": -122.4194 },
+    "details": "Enjoys hiking and React development."
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "photo": "/assets/bob.jpg",
+    "description": "UI/UX Designer from New York",
+    "location": "New York, NY",
+    "coordinates": { "lat": 40.7128, "lng": -74.006 },
+    "details": "Specializes in mobile-first design."
+  }
+]
